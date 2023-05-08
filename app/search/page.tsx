@@ -1,5 +1,4 @@
 import fetchNews from "../../lib/fetchNews";
-import response from "../../response.json";
 import NewsList from "../NewsList";
 
 type Props = {
